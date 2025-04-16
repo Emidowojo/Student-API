@@ -1,0 +1,17 @@
+# Ignore virtual environment
+.venv/
+# Ignore environment file
+.env
+# Ignore Git files
+.git/
+.gitignore
+# Ignore tests (not needed in production)
+tests/
+# Ignore database file
+students.db
+# Ignore build artifacts
+__pycache__/
+*.pyc
+# Ignore documentation
+README.md
+Makefile
